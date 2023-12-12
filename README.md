@@ -1,4 +1,12 @@
-# Cdkdrop
+# Drag&Drop example with a  mixed orientation and flex-wrap for Angular 13
+
+CDK Drag & Drop example for multi-row flex-wrap grid.
+
+## Based on:
+
+Drag&Drop with a flex-wrap Angular 7 https://stackblitz.com/edit/angular-nuiviw
+
+Incomplete implementation of Drag&Drop with a flex-wrap for Angular 14 https://stackblitz.com/edit/angular-zhkws8
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
